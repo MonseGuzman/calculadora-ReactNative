@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "calculadora-react",
+    "description": "This project is really great and awesome, only for cool kids... like me because design  I did thinking in iOS.",
+    "slug": "calculadora-react",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4cdbc4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "githubUrl": "https://github.com/MonseGuzman/calculadora-ReactNative"
+  }
+}
